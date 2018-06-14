@@ -1,0 +1,11 @@
+C:\Projects\Dungeon\Dungeon\obj\Debug\netcoreapp2.0\Dungeon.csprojAssemblyReference.cache
+C:\Projects\Dungeon\Dungeon\obj\Debug\netcoreapp2.0\Dungeon.csproj.CoreCompileInputs.cache
+C:\Projects\Dungeon\Dungeon\obj\Debug\netcoreapp2.0\Dungeon.AssemblyInfoInputs.cache
+C:\Projects\Dungeon\Dungeon\obj\Debug\netcoreapp2.0\Dungeon.AssemblyInfo.cs
+C:\Projects\Dungeon\Dungeon\bin\Debug\netcoreapp2.0\Dungeon.deps.json
+C:\Projects\Dungeon\Dungeon\bin\Debug\netcoreapp2.0\Dungeon.runtimeconfig.json
+C:\Projects\Dungeon\Dungeon\bin\Debug\netcoreapp2.0\Dungeon.runtimeconfig.dev.json
+C:\Projects\Dungeon\Dungeon\bin\Debug\netcoreapp2.0\Dungeon.dll
+C:\Projects\Dungeon\Dungeon\bin\Debug\netcoreapp2.0\Dungeon.pdb
+C:\Projects\Dungeon\Dungeon\obj\Debug\netcoreapp2.0\Dungeon.dll
+C:\Projects\Dungeon\Dungeon\obj\Debug\netcoreapp2.0\Dungeon.pdb
